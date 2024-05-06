@@ -9,8 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^18",
+    "ethers": "^6.12.1",
+    "moralis": "^2.26.1",
+    "moralis-v1": "^1.13.0",
+    "next": "14.2.3",
+    "react": "^18.3.1",
     "react-dom": "^18",
-    "next": "14.2.3"
+    "react-moralis": "^1.4.2"
   }
 }
